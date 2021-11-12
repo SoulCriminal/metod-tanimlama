@@ -1,0 +1,15 @@
+/Users/hakkiayman/Desktop/VisualStudioCode/metod-tanimlama/bin/Debug/net5.0/metod-tanimlama.deps.json
+/Users/hakkiayman/Desktop/VisualStudioCode/metod-tanimlama/bin/Debug/net5.0/metod-tanimlama.runtimeconfig.json
+/Users/hakkiayman/Desktop/VisualStudioCode/metod-tanimlama/bin/Debug/net5.0/metod-tanimlama.runtimeconfig.dev.json
+/Users/hakkiayman/Desktop/VisualStudioCode/metod-tanimlama/bin/Debug/net5.0/metod-tanimlama.dll
+/Users/hakkiayman/Desktop/VisualStudioCode/metod-tanimlama/bin/Debug/net5.0/ref/metod-tanimlama.dll
+/Users/hakkiayman/Desktop/VisualStudioCode/metod-tanimlama/bin/Debug/net5.0/metod-tanimlama.pdb
+/Users/hakkiayman/Desktop/VisualStudioCode/metod-tanimlama/obj/Debug/net5.0/metod-tanimlama.csproj.AssemblyReference.cache
+/Users/hakkiayman/Desktop/VisualStudioCode/metod-tanimlama/obj/Debug/net5.0/metod-tanimlama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakkiayman/Desktop/VisualStudioCode/metod-tanimlama/obj/Debug/net5.0/metod-tanimlama.AssemblyInfoInputs.cache
+/Users/hakkiayman/Desktop/VisualStudioCode/metod-tanimlama/obj/Debug/net5.0/metod-tanimlama.AssemblyInfo.cs
+/Users/hakkiayman/Desktop/VisualStudioCode/metod-tanimlama/obj/Debug/net5.0/metod-tanimlama.csproj.CoreCompileInputs.cache
+/Users/hakkiayman/Desktop/VisualStudioCode/metod-tanimlama/obj/Debug/net5.0/metod-tanimlama.dll
+/Users/hakkiayman/Desktop/VisualStudioCode/metod-tanimlama/obj/Debug/net5.0/ref/metod-tanimlama.dll
+/Users/hakkiayman/Desktop/VisualStudioCode/metod-tanimlama/obj/Debug/net5.0/metod-tanimlama.pdb
+/Users/hakkiayman/Desktop/VisualStudioCode/metod-tanimlama/obj/Debug/net5.0/metod-tanimlama.genruntimeconfig.cache

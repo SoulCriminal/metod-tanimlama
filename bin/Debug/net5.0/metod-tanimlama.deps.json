@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "metod-tanimlama/1.0.0": {
+        "runtime": {
+          "metod-tanimlama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "metod-tanimlama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

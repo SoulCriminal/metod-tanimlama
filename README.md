@@ -1,0 +1,2 @@
+# metod-tanimlama
+ 
